@@ -1,0 +1,235 @@
+[Done]
+0215_170445.7381=End to (None)
+0215_170541.4485=End to (None)
+0215_170620.9789=End to (None)
+0216_085358.7069=End to (None)
+0217_091120.3517=End to (None)
+0218_091338.4233=End to (None)
+0219_090823.1723=End to (None)
+[LastLog]
+Action=None
+Key=0219_154139.1819
+[None]
+0215_170445.7411=Begin from (Done)
+0215_170445.7441=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0215_170445.7451=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0215_170445.7471=SetProtocol : Hnc.Update.Protocol.ProtocolTCP
+0215_170445.8529=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0215_170446.1560=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0215_170446.1630=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0215_170446.1650=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0215_170446.1679=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0215_170446.1699=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0215_170446.1709=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0215_170446.3964=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0215_170446.4057=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0215_170446.4146=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0215_170446.4227=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0215_170446.4316=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0215_170446.4346=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0215_170541.4485_0=Begin from (Done)
+0215_170541.4642=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0215_170541.4644=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0215_170541.4644_0=SetProtocol : Hnc.Update.Protocol.ProtocolTCP
+0215_170541.5967=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0215_170541.8922=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0215_170541.8942=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0215_170541.8942_0=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0215_170541.8942_1=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0215_170541.8942_2=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0215_170541.8942_3=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0215_170542.1354=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0215_170542.1364=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0215_170542.1364_0=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0215_170542.1364_1=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0215_170542.1364_2=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0215_170542.1364_3=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0215_170620.9948=Begin from (Done)
+0216_085358.7172=Begin from (Done)
+0216_103437.0862=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0216_103437.0927=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0216_103437.1084=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0216_103437.3560=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0216_103437.3560_0=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0216_103437.3716=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0216_103437.3716_0=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0216_103437.3872=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0216_103437.3937=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0216_103437.6256=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0216_103437.6256_0=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0216_103437.6412=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0216_103437.6412_0=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0216_103437.6569=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0216_103437.6569_0=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0217_091120.3673=Begin from (Done)
+0217_123104.7787=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0217_123104.7887=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0217_123104.8243=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0217_123105.1394=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0217_123105.1530=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0217_123105.1628=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0217_123105.1728=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0217_123105.1818=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0217_123105.1919=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0217_123105.4559=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0217_123105.4678=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0217_123105.4778=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0217_123105.4867=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0217_123105.4967=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0217_123105.5066=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0217_133405.5271=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0217_133405.5291=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0217_133405.5662=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0217_133405.8751=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0217_133405.8861=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0217_133405.8961=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0217_133405.9051=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0217_133405.9141=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0217_133405.9240=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0217_133406.1786=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0217_133406.1896=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0217_133406.1996=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0217_133406.2086=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0217_133406.2181=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0217_133406.2276=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0217_154556.0354=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0217_154556.0455=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0217_154556.0929=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0217_154556.3989=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0217_154556.4100=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0217_154556.4199=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0217_154556.4295=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0217_154556.4344=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0217_154556.4366=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0217_154556.6875=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0217_154556.6985=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0217_154556.7085=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0217_154556.7185=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0217_154556.7284=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0217_154556.7375=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0217_163456.7660=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0217_163456.7760=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0217_163456.8228=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0217_163457.1287=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0217_163457.1404=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0217_163457.1503=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0217_163457.1593=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0217_163457.1693=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0217_163457.1783=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0217_163457.4602=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0217_163457.4719=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0217_163457.4809=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0217_163457.4909=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0217_163457.5008=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0217_163457.5098=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0217_171801.9454=(S)_startWatch_EventArrived : False//OK
+0217_171801.9583=(S)_startWatch_EventArrived is Worked //OK
+0217_171801.9612=(S)_Event Set Global\HncUpdate2020NotifyS2T//OK
+0217_171930.6686=(S)_stopWatch_EventArrived, HwpCount : 0//OK
+0217_171930.6710=(S)_stopWatch_EventArrived, HCellCount : 0//OK
+0217_171930.6727=(S)_stopWatch_EventArrived, HShowCount : 0//OK
+0217_171930.6742=(S)_stopWatch_EventArrived, HwordCount : 0//OK
+0217_171930.6762=(S)_stopWatch_EventArrived, IsWorking : False//OK
+0217_171930.6782=(S)_stopWatch_EventArrived End//OK
+0217_171934.6893=(S)_startWatch_EventArrived : False//OK
+0217_171934.6933=(S)_startWatch_EventArrived is Worked //OK
+0217_171934.6953=(S)_Event Set Global\HncUpdate2020NotifyS2T//OK
+0217_172020.1777=(S)_startWatch_EventArrived : True//OK
+0217_172020.1876=(S)_stopWatch_EventArrived, HwpCount : 1//OK
+0217_172020.1906=(S)_stopWatch_EventArrived, HCellCount : 0//OK
+0217_172020.1927=(S)_stopWatch_EventArrived, HShowCount : 0//OK
+0217_172020.1946=(S)_stopWatch_EventArrived, HwordCount : 0//OK
+0217_172020.1967=(S)_stopWatch_EventArrived, IsWorking : True//OK
+0217_172020.1986=(S)_stopWatch_EventArrived End//OK
+0217_172320.3611=(S)_stopWatch_EventArrived, HwpCount : 0//OK
+0217_172320.3640=(S)_stopWatch_EventArrived, HCellCount : 0//OK
+0217_172320.3657=(S)_stopWatch_EventArrived, HShowCount : 0//OK
+0217_172320.3684=(S)_stopWatch_EventArrived, HwordCount : 0//OK
+0217_172320.3704=(S)_stopWatch_EventArrived, IsWorking : False//OK
+0217_172320.3714=(S)_stopWatch_EventArrived End//OK
+0218_091338.4233_0=Begin from (Done)
+0218_091611.2208=(S)_startWatch_EventArrived : False//OK
+0218_091611.2258=(S)_startWatch_EventArrived is Worked //OK
+0218_091611.2287=(S)_Event Set Global\HncUpdate2020NotifyS2T//OK
+0218_094126.5570=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0218_094126.5667=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0218_094126.6043=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0218_094126.8897=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0218_094126.8986=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0218_094126.9061=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0218_094126.9142=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0218_094126.9232=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0218_094126.9312=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0218_094127.1935=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0218_094127.2005=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0218_094127.2027=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0218_094127.2048=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0218_094127.2061=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0218_094127.2081=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0218_181925.7465=(S)_stopWatch_EventArrived, HwpCount : 0//OK
+0218_181925.7465_0=(S)_stopWatch_EventArrived, HCellCount : 0//OK
+0218_181925.7465_1=(S)_stopWatch_EventArrived, HShowCount : 0//OK
+0218_181925.7465_2=(S)_stopWatch_EventArrived, HwordCount : 0//OK
+0218_181925.7465_3=(S)_stopWatch_EventArrived, IsWorking : False//OK
+0218_181925.7621=(S)_stopWatch_EventArrived End//OK
+0219_090823.1723_0=Begin from (Done)
+0219_105636.3712=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0219_105636.3805=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0219_105636.4184=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0219_105636.7326=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0219_105636.7459=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0219_105636.7539=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0219_105636.7559=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0219_105636.7578=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0219_105636.7598=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0219_105637.0199=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0219_105637.0219=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0219_105637.0239=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0219_105637.0249=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0219_105637.0269=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0219_105637.0289=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0219_124137.0355=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0219_124137.0446=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0219_124137.0797=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0219_124137.3954=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0219_124137.4060=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0219_124137.4149=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0219_124137.4249=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0219_124137.4339=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0219_124137.4435=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0219_124137.7126=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0219_124137.7164=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0219_124137.7210=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0219_124137.7255=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0219_124137.7298=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0219_124137.7345=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0219_135637.7444=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0219_135637.7533=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0219_135637.7909=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0219_135638.0918=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0219_135638.1023=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0219_135638.1142=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0219_135638.1235=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0219_135638.1327=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0219_135638.1421=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0219_135638.4402=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0219_135638.4507=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0219_135638.4604=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0219_135638.4696=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0219_135638.4788=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0219_135638.4882=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
+0219_154138.5091=(S)_DEBUG: Entering PhaseCheck.Begin()//OK
+0219_154138.5111=(S)_DEBUG: Entering PhaseCheck.Thread_UpdateCheck()//OK
+0219_154138.5474=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R2, deltaLocal == 0 : 
+0219_154138.8553=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0219_154138.8659=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R7 : 
+0219_154138.8756=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectServer == R7, deltaServer == 0 : 
+0219_154138.8846=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0219_154138.8936=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is not latest : 
+0219_154138.9035=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R3, deltaLocal == 0 : 
+0219_154139.1722=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7, project == R7, delta == 0, auth_response == 1, errCode == 0 : 
+0219_154139.1747=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, cdnPath == http://cdn.hancom.com/update/HOffice_2020/R7 : 
+0219_154139.1771=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectServer == R7, deltaServer == 0 : 
+0219_154139.1789=(S)_DEBUG: in CoreCommon.IsLatestProduct(). retval of protocol.GetServerProductUrl_Key_Version() => OK//OK
+0219_154139.1809=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is not latest : 
+0219_154139.1819=(S)_DEBUG: Leaving PhaseCheck.Thread_UpdateCheck()//OK
